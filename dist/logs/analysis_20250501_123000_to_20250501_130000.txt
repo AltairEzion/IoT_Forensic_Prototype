@@ -1,0 +1,181 @@
+
+===== Record ID 85242 =====
+Generated Time  : 2025-05-01 11:34:35.009836+00:00
+Received Time   : 2025-05-01 11:34:35.020151+00:00
+Time Difference : 10.315 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "23.77", "timestamp": "2025-05-01 12:34:35.009836"}
+===============================
+
+===== Record ID 85243 =====
+Generated Time  : 2025-05-01 11:34:40.010698+00:00
+Received Time   : 2025-05-01 11:34:40.014251+00:00
+Time Difference : 3.553 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "22.41", "timestamp": "2025-05-01 12:34:40.010698"}
+===============================
+
+===== Record ID 85244 =====
+Generated Time  : 2025-05-01 11:34:45.012276+00:00
+Received Time   : 2025-05-01 11:34:45.015520+00:00
+Time Difference : 3.244 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "26.89", "timestamp": "2025-05-01 12:34:45.012276"}
+===============================
+
+===== Record ID 85245 =====
+Generated Time  : 2025-05-01 11:34:50.013524+00:00
+Received Time   : 2025-05-01 11:34:50.017258+00:00
+Time Difference : 3.734 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "27.4", "timestamp": "2025-05-01 12:34:50.013524"}
+===============================
+
+===== Record ID 85246 =====
+Generated Time  : 2025-05-01 11:34:55.015157+00:00
+Received Time   : 2025-05-01 11:34:55.018758+00:00
+Time Difference : 3.601 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "25.55", "timestamp": "2025-05-01 12:34:55.015157"}
+===============================
+
+===== Record ID 85247 =====
+Generated Time  : 2025-05-01 11:36:12.548504+00:00
+Received Time   : 2025-05-01 11:36:12.555569+00:00
+Time Difference : 7.065 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "35.87", "timestamp": "2025-05-01 12:36:12.548504"}
+===============================
+
+===== Record ID 85248 =====
+Generated Time  : 2025-05-01 11:36:14.550362+00:00
+Received Time   : 2025-05-01 11:36:14.553556+00:00
+Time Difference : 3.194 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "41.66", "timestamp": "2025-05-01 12:36:14.550362"}
+===============================
+
+===== Record ID 85249 =====
+Generated Time  : 2025-05-01 11:36:16.551657+00:00
+Received Time   : 2025-05-01 11:36:16.554969+00:00
+Time Difference : 3.312 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "49.88", "timestamp": "2025-05-01 12:36:16.551657"}
+===============================
+
+===== Record ID 85250 =====
+Generated Time  : 2025-05-01 11:36:18.553473+00:00
+Received Time   : 2025-05-01 11:36:18.556392+00:00
+Time Difference : 2.919 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "52.55", "timestamp": "2025-05-01 12:36:18.553473"}
+===============================
+
+===== Record ID 85251 =====
+Generated Time  : 2025-05-01 11:36:20.554920+00:00
+Received Time   : 2025-05-01 11:36:20.557282+00:00
+Time Difference : 2.362 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "54.09", "timestamp": "2025-05-01 12:36:20.554920"}
+===============================
+
+===== Record ID 85252 =====
+Generated Time  : 2025-05-01 11:36:22.556116+00:00
+Received Time   : 2025-05-01 11:36:22.559373+00:00
+Time Difference : 3.257 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "39.41", "timestamp": "2025-05-01 12:36:22.556116"}
+===============================
+
+===== Record ID 85253 =====
+Generated Time  : 2025-05-01 11:36:24.556907+00:00
+Received Time   : 2025-05-01 11:36:24.560088+00:00
+Time Difference : 3.181 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "39.11", "timestamp": "2025-05-01 12:36:24.556907"}
+===============================
+
+===== Record ID 85254 =====
+Generated Time  : 2025-05-01 11:36:26.558582+00:00
+Received Time   : 2025-05-01 11:36:26.562586+00:00
+Time Difference : 4.004 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "46.36", "timestamp": "2025-05-01 12:36:26.558582"}
+===============================
+
+===== Record ID 85255 =====
+Generated Time  : 2025-05-01 11:36:28.560296+00:00
+Received Time   : 2025-05-01 11:36:28.562852+00:00
+Time Difference : 2.556 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "50.58", "timestamp": "2025-05-01 12:36:28.560296"}
+===============================
+
+===== Record ID 85256 =====
+Generated Time  : 2025-05-01 11:36:30.561790+00:00
+Received Time   : 2025-05-01 11:36:30.564969+00:00
+Time Difference : 3.179 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "50.98", "timestamp": "2025-05-01 12:36:30.561790"}
+===============================
+
+===== Record ID 85257 =====
+Generated Time  : 2025-05-01 11:36:32.563185+00:00
+Received Time   : 2025-05-01 11:36:32.565469+00:00
+Time Difference : 2.284 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "51.13", "timestamp": "2025-05-01 12:36:32.563185"}
+===============================
+
+===== Record ID 85258 =====
+Generated Time  : 2025-05-01 11:36:45.173034+00:00
+Received Time   : 2025-05-01 11:36:45.176985+00:00
+Time Difference : 3.951 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "27.62", "timestamp": "2025-05-01 12:36:45.173034"}
+===============================
+
+===== Record ID 85259 =====
+Generated Time  : 2025-05-01 11:36:45.174040+00:00
+Received Time   : 2025-05-01 11:36:45.178371+00:00
+Time Difference : 4.331 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "27.68", "timestamp": "2025-05-01 12:36:45.174040"}
+===============================
+
+===== Record ID 85260 =====
+Generated Time  : 2025-05-01 11:36:45.175035+00:00
+Received Time   : 2025-05-01 11:36:45.180471+00:00
+Time Difference : 5.436 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "26.4", "timestamp": "2025-05-01 12:36:45.175035"}
+===============================
+
+===== Record ID 85261 =====
+Generated Time  : 2025-05-01 11:37:03.664871+00:00
+Received Time   : 2025-05-01 11:37:03.668861+00:00
+Time Difference : 3.990 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "26.69", "timestamp": "2025-05-01 12:37:03.664871"}
+===============================
+
+===== Record ID 85262 =====
+Generated Time  : 2025-05-01 11:37:03.665883+00:00
+Received Time   : 2025-05-01 11:37:03.670505+00:00
+Time Difference : 4.622 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "24.35", "timestamp": "2025-05-01 12:37:03.665883"}
+===============================
+
+===== Record ID 85263 =====
+Generated Time  : 2025-05-01 11:37:03.665883+00:00
+Received Time   : 2025-05-01 11:37:03.672193+00:00
+Time Difference : 6.310 ms
+Hash Valid      : True
+Decrypted Data  : {"temperature": "23.06", "timestamp": "2025-05-01 12:37:03.665883"}
+===============================
+
+=== Summary ===
+Valid Records      : 22
+Decryption Errors  : 0
+Hash Mismatches    : 0

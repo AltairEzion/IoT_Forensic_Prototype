@@ -1,0 +1,34 @@
+# version: '3.0'
+services:
+  mytb:
+    restart: always
+    image: "thingsboard/tb-postgres"
+    ports:
+      - "8080:9090"
+      - "1883:1883"
+      - "7070:7070"
+      - "5683-5688:5683-5688/udp"
+      - "5432:5432"
+    environment:
+      TB_QUEUE_TYPE: in-memory
+      POSTGRES_DB: thingsboard
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - mytb-data:/data
+      - mytb-logs:/var/log/thingsboard
+  mosquitto:
+    image: eclipse-mosquitto:2
+    restart: always
+    ports:
+      - "1884:1884"  # Custom port IoT mqtt device → receiver
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+
+volumes:
+  mytb-data:
+    external: true
+  mytb-logs:
+    external: true
